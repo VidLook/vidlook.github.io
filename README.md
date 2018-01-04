@@ -1,2 +1,2 @@
-# vidlook.github.io
-VidLook - Just a random project :)
+# Project VidLook
+## VidLook - Just a random project :)
